@@ -2,4 +2,4 @@
 
 | Introduction to SQL       | Summary
 | :---                      |   :----:
-|SQL                        | [SQL Practice](./Sql.md)
+|SQL                        | [SQL Practice](./sql.md)
