@@ -1,5 +1,5 @@
 # reading-notes
-This website talks about my notes about the classes and anything is related
+* This website contains **my notes** about the classes and anything is related *
 ## Code 401 - Advanced Software Development
 | Introduction to SQL       | Summary
 | :---                      |   :----:
